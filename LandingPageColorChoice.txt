@@ -1,7 +1,7 @@
 For Now We will do same font/weight/size
 
 Dark Background Color (hero and footer)
-DimGrey #696969 rgb(105, 105, 1050
+DimGrey #696969 rgb(105, 105, 1050 Changed to #333366
 
 Hero Main Text
 White #F9FAF8
@@ -15,7 +15,7 @@ White #F9FAF8
 Button Color
 PaleTurquoise #AFEEEE rgb(175,238,238)
 
-Infromation Header Text
+Information Header Text
 Navy #000080 rgb(0,0,128)
 
 Quote Section Background Color
