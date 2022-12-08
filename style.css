@@ -7,7 +7,7 @@
     background-color: #333366;
 }
 
-ul {
+.mylinks {
     list-style: none;
     display: flex;
     gap: 16px;
@@ -47,4 +47,33 @@ h1 {
 button {
     background-color: #B0C4DE;
     border-radius: 16px;
+}
+
+#images {
+    width: 100px;
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
+
+.infotitle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000080;
+    font-size: 36px;
+    font-weight: extra-bold;
+}
+
+.pictures {
+    display: flex;
+    justify-content: space-around;
+}
+
+h6 {
+    font-size: 18px;
+    font-weight: extra-bold;
+    color: #000080;
+    display: flex;
+    justify-content: center;
 }
