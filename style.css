@@ -4,6 +4,11 @@ body {
     font-family: "Times New", Times, serif;
 }
 
+.minicontent {
+    font-size: 16px;
+    color: #F9FAF8;
+}
+
 .header {
     display: flex;
     justify-content: space-around;
